@@ -25,7 +25,7 @@
 3. Open DhttpServer.sln .
 4. Build the project .
 * Other OS
-!NOT WORK IN other OS because the program is using winAPI FUNC
+`!NOT WORK IN other OS because the program is using winAPI FUNC`
 
 
 <h4 align="center">ℹ️ ~Check https://wiki.dlang.org/IDEs for more info~ ℹ️</h4>
