@@ -24,9 +24,8 @@
 2. Download visual-D ext http://rainers.github.io/visuald/visuald/StartPage.html .
 3. Open DhttpServer.sln .
 4. Build the project .
-* Other Devices
-1. download the dmd compiler .
-2. compile Dhttpserver.d .
+* Other OS
+!NOT WORK IN other OS because the program is using winAPI FUNC
 
 
 <h4 align="center">ℹ️ ~Check https://wiki.dlang.org/IDEs for more info~ ℹ️</h4>
